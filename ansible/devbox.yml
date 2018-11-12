@@ -1,0 +1,4 @@
+---
+- hosts: all
+  roles:
+    - sf4c1
